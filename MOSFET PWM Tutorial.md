@@ -52,7 +52,7 @@ A typical N-channel MOSFET has...
 - D (Drain): Connects to the load (connected to the source/battery) 
 - S (Source): Connects to the ground
 
-<img src="image-7.png" alt="Duty Cycle" style="width:200px;">
+<img src="image-6.png" alt="Duty Cycle" style="width:200px;">
 
 **An N-channel MOSFET has an arrow that points into the gate which indicates that current can only flow from drain to source
 <hr>
